@@ -1,4 +1,4 @@
-# The PigT2T HxYL Assembly CONKORD Results
+# The Collated PigT2T HxYL Assembly CONKORD Results
 
 | Sample                        | Median Haploid Copy Number | Median Diploid Copy Number | Mean Haploid Copy Number | Mean Diploid Copy Number |
 |--------------------------------|----------------------------|----------------------------|--------------------------|--------------------------|
